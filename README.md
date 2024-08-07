@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Musab Ahmed</h1>
 <h3 align="center"> I am currently working as a React Developer and pursuing a Bachelor’s degree in Computer Science. My current studies and work experience have equipped me with a solid foundation in modern web technologies, including React JS, React Native, Redux, Firebase, Node.js, APIs, Databases, Cloud Computing, and AI.
 
-I invite you to explore my GitHub profile, where you can find a range of exciting projects that showcase my skills and passion for development.Feel free to reach out to me at musabahmed5874@gmail.com if you have any questions or would like to discuss potential opportunities.</h3>
+I invite you to explore my GitHub profile, where you can find various exciting projects showcasing my skills and passion for development. Feel free to contact me at musabahmed5874@gmail.com if you have any questions or would like to discuss potential opportunities.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <h3 align="left">Languages and Tools:</h3>
