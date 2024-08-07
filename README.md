@@ -1,6 +1,8 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)]
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Musab Ahmed</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center"> I am currently working as a React Developer and pursuing a Bachelor’s degree in Computer Science. My current studies and work experience have equipped me with a solid foundation in modern web technologies, including React JS, React Native, Redux, Firebase, Node.js, APIs, Databases, Cloud Computing, and AI.
+
+I invite you to explore my GitHub profile, where you can find a range of exciting projects that showcase my skills and passion for development.Feel free to reach out to me at musabahmed5874@gmail.com if you have any questions or would like to discuss potential opportunities.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <h3 align="left">Connect with me:</h3>
